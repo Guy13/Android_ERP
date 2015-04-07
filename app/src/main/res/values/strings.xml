@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ERP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="drawer_open">slider menu opened</string>
+    <string name="drawer_closed">slider menu closed</string>
+
+    <string-array name="nav_drawer_items">
+        <item>My Profile</item>
+        <item>Attendance</item>
+        <item>Semester Registration</item>
+        <item>Time Table</item>
+        <item>Admit Card</item>
+        <item>Results</item>
+        <item>Logout</item>
+    </string-array>
+    
+    <array name="nav_drawer_icons">
+        <item>@drawable/my_profile</item>
+        <item>@drawable/attendance_logo</item>
+        <item>@drawable/sem_reg</item>
+        <item>@drawable/clock</item>
+        <item>@drawable/admit_card</item>
+        <item>@drawable/results</item>
+        <item>@drawable/logout</item>
+    </array>
+
+    <string name="desc_list_item_icon">Item Icon</string>"
+
+</resources>
